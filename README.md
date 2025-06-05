@@ -77,8 +77,8 @@ This approach creates a nationwide secure financial network aligned with Viksit 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/paykrypt.git
-cd paykrypt
+git clone https://github.com/yourusername/PayKrypt.git
+cd PayKrypt
 
 # Create a virtual environment
 python -m venv venv
